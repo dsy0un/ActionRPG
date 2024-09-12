@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-ActionRPG_MainAssetsTerrainDemoScene_URPTerrainTexturesCliff_Mossy_ECliff_Mossy_E_BaseColor.tif filter=lfs diff=lfs merge=lfs -text
-ActionRPG_MainAssetsTerrainDemoScene_URPTerrainTexturesCliff_Mossy_ECliff_Mossy_E_MaskMap.tif filter=lfs diff=lfs merge=lfs -text
-ActionRPG_MainAssetsTerrainDemoScene_URPTerrainTexturesCliff_Mossy_ECliff_Mossy_E_Normal.tif filter=lfs diff=lfs merge=lfs -text
+ActionRPG_Main/Assets/TerrainDemoScene_URP/Terrain/Textures/Cliff_Mossy_ECliff_Mossy_E_BaseColor.tif filter=lfs diff=lfs merge=lfs -text
+ActionRPG_Main/Assets/TerrainDemoScene_URP/Terrain/Textures/Cliff_Mossy_ECliff_Mossy_E_MaskMap.tif filter=lfs diff=lfs merge=lfs -text
+ActionRPG_Main/Assets/TerrainDemoScene_URP/Terrain/Textures/Cliff_Mossy_ECliff_Mossy_E_Normal.tif filter=lfs diff=lfs merge=lfs -text
